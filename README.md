@@ -1,9 +1,9 @@
 <h1 align="left">Cristopher Romero</h1>
 
 <p align="left">
-  <a href="mailto:cristopher.romero.pe@gmail.com">Email</a>
+  <a href="mailto:cristopher.romero.pe@gmail.com" target="_blank">Email</a>
   •
-  <a href="https://www.linkedin.com/in/cristopher-moises-romero-medrano-a28583298/">
+  <a href="https://www.linkedin.com/in/cristopher-moises-romero-medrano-a28583298/" target="_blank">
     LinkedIn
   </a>
 </p>
