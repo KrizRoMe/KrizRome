@@ -1,5 +1,13 @@
 <h1 align="left">Cristopher Romero</h1>
 
+<p align="left">
+  <a href="mailto:cristopher.romero.pe@gmail.com">Email</a>
+  •
+  <a href="https://www.linkedin.com/in/cristopher-moises-romero-medrano-a28583298/">
+    LinkedIn
+  </a>
+</p>
+
 ###
 
 <h2 align="left">About me</h2>
